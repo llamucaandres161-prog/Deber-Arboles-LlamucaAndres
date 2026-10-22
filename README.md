@@ -5,7 +5,7 @@ Catálogo de la Biblioteca FISEI con árbol general y ABB en Java.
 **APE 3 · Catálogo de la Biblioteca FISEI con árbol general y ABB en Java**
 Universidad Técnica de Ambato - FISEI - Carrera de Software · Estructura de Datos · Tercer nivel
 
-Autor: _Apellido Nombre_
+Autor: Andres_LLamuca
 
 ## El problema
 
